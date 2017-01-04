@@ -1,4 +1,4 @@
-layout_spectrum: 0.7939068
+typography_spectrum: 0.9032258
 color:
   saturation: 0.6753204
   lightness: 0.434357
@@ -10,5 +10,9 @@ color:
     - '#3A4E32'
     - '#93B672'
   rhythmicContrast: 0.03353885
-typography_spectrum: 0.9032258
+github: true
+layout_spectrum: 0.7939068
 name: Yamasil
+title: bringing your innovation to life
+content: []
+description: 'hollistic 3D product development '
